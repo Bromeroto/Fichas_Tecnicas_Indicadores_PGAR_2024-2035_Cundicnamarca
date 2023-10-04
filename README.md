@@ -5,5 +5,6 @@ En este repositorio se presenta de manera detallada la generación de las fichas
 El código está escrito en el editor de códigos **Jupyter Notebook** porque provee una interfaz amigable e interactiva, y de uso muy fácil. Sin embargo, también está el código con la extensión *.py* para abrirlo desde el editor de códigos de preferencia.
 
 ### Archivos del repositorio:
-* añlkfhopsdhjof
+* El archivo [`Linea base prospectiva PGAR - fichas tecnicas PR.xlsx`](Linea base prospectiva PGAR - fichas tecnicas PR.xlsx)
+
 
